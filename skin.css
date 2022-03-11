@@ -1,0 +1,73 @@
+:root {
+    --primary: #212121;
+    --primaryLight: #484848;
+    --primaryDark: #000000;
+
+    --secondary: #9c2132;
+    --secondaryLight: #d2545b;
+    --secondaryDark: #67000c;
+
+    --LogoURL: url("https://i.ibb.co/g7TQYLS/Rama-SV-Logo-Borderless.png");
+    --fontColor: #FFF; 
+}
+
+
+td {
+    color: var(--fontColor) !important;
+}
+
+div#lineinfotitle {
+    background-color: var(--secondaryDark);
+    padding: 4px;
+}
+
+tr#ROW_HEAD {
+
+    background: var(--secondary) !important;
+
+}
+
+tr.title * {
+    background-color: var(--secondaryDark) !important;
+    color: var(--fontColor) !important;
+}
+
+.color3 * {
+background-color: var(--primaryLight) !important;
+border: none !important;
+}
+
+.color4 * {
+background-color: var(--primary) !important;
+border: none !important;
+}
+td.logo.right img {
+display: none;
+}
+
+td.logo.right {
+background-image: var(--LogoURL);
+background-position: center;
+background-size: contain;
+width: 10000vw !important;
+background-repeat: no-repeat;
+
+}
+
+body {
+background-color: var(--secondaryDark) !important;
+}
+
+table.monitorhead {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#cont_messageTicker {
+    background-color: var(--primaryDark) !important;
+}
+
+.scrollingText {
+    background-color: var(--primaryDark) !important;
+    color: var(--fontColor) !important;
+}
