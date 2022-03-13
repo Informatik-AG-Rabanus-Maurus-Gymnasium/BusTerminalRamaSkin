@@ -32,7 +32,7 @@ td.logo.right {
 div#lineinfotitle {
 	background-color: var(--secondaryDark) !important;
 }
-div#ROW_HEAD {
+tr#ROW_HEAD {
 	background: var(--secondary) !important;
 }
 td {
