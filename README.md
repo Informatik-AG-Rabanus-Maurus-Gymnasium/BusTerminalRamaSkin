@@ -1,5 +1,5 @@
 # BusTerminalRamaSkin
-Skin für eine Monitortafel vom RMV eigenen Tool
+Skin für eine Monitortafel vom <a href="https://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?L=vs_anzeigetafel">RMV Anzeigetafel-Tool</a>.
 
 created by Rama SV 2022
 
