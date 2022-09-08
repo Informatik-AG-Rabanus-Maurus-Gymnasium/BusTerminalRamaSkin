@@ -6,7 +6,8 @@
     --secondary: #9c2132;
     --secondaryLight: #d2545b;
     --secondaryDark: #67000c;
-
+    --InfoYellow: rgb(243, 225, 107);
+    --fontColorInfo: #000;
     --LogoURL: url("https://i.ibb.co/g7TQYLS/Rama-SV-Logo-Borderless.png");
     --fontColor: #FFF; 
 }
@@ -64,10 +65,10 @@ table.monitorhead {
 }
 
 #cont_messageTicker {
-    background-color: var(--primaryDark) !important;
+    background-color: var(--InfoYellow) !important;
 }
 
 .scrollingText {
-    background-color: var(--primaryDark) !important;
-    color: var(--fontColor) !important;
+    background-color: var(--InfoYellow) !important;
+    color: var(--fontColorInfo) !important;
 }
