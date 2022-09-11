@@ -66,9 +66,12 @@ table.monitorhead {
 
 #cont_messageTicker {
     background-color: var(--InfoYellow) !important;
+    padding-bottom: 20px;
 }
 
 .scrollingText {
     background-color: var(--InfoYellow) !important;
     color: var(--fontColorInfo) !important;
+    font-size: 30px !important;
+
 }
